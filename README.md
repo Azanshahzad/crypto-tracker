@@ -31,19 +31,9 @@ A modern Flutter application that provides real-time cryptocurrency prices, mark
 
 ## 📸 Screenshots
 
-### 🏠 Home Screen
-
-![](screenshots/home.jpeg)
-
-### 🔍 Search Screen
-
-![](screenshots/search.jpeg)
-
-### ❤️ Watchlist
-
-![](screenshots/watchlist.jpeg)
-
----
+| Home | Search | Watchlist |
+|------|--------|-----------|
+| ![](screenshots/home.jpeg) | ![](screenshots/search.jpeg) | ![](screenshots/watchlist.jpeg) |
 
 ## 📂 Project Structure
 
